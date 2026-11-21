@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24412651.svg)](https://doi.org/10.5281/zenodo.24412651)
 
+This result is now maintained in [theta-host-split-inert-race](https://github.com/leecrossley/theta-host-split-inert-race/tree/main/results/theta-race-width-cusp). This repository is archived and keeps its releases and DOI.
+
 **Set the width of the 547/727 prime-ideal race to $`p^j`$. One limiting measurement then determines the local trace $`\sum_\chi\chi(p)^j`$, including at ramified primes.** With the conductor data, two measurements at widths $`p`$ and $`p^2`$ determine the entire Euler factor. The earlier six-value reconstruction holds the width fixed at two. [Exact formula and proof](PROOF.md) · [Fixed-width theorem](https://github.com/leecrossley/theta-race-curvature-euler-factors/blob/af7093b56a7f6b4155dba27e735b5b1d471ff707/PROOF.md)
 
 At a general width $`b\gt 1`$, combine the score at a height $`y`$ with the scores at $`e^{-h}y`$ and $`e^hy`$. After a known correction, its largest limiting value gives a signed sum over exactly the prime powers in $`(be^{-h},be^h)`$. For example, widths 31 and 47 give first traces of $`-8`$ and $`8`$. At width 2 the first trace vanishes, and at width 4 the second trace is 2. [Twenty certified values](evidence/weighted-extrema.tsv)
